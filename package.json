@@ -1,18 +1,9 @@
 {
   "name": "propitious-guacamole",
   "version": "0.2.0",
-  "description": "A sample Node.js app using Express 4",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "description": "A sample Node.js app, attempt one",
+  "repository": "https://github.com/raydilme/propitious-guacamole.git",
   "dependencies": {
-    "express": "^4.13.3"
-  },
-  "engines": {
-    "node": "4.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/raydilme/propitious-guacamole"
+    "statik": "~1.2.5"
   }
+}
