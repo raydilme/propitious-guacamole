@@ -2,8 +2,25 @@
   "name": "propitious-guacamole",
   "version": "0.2.0",
   "description": "A sample Node.js app, attempt one",
-  "repository": "https://github.com/raydilme/propitious-guacamole.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raydilme/propitious-guacamole.git"
+  },
   "dependencies": {
     "statik": "~1.2.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/raydilme/propitious-guacamole/issues"
+  },
+  "homepage": "https://github.com/raydilme/propitious-guacamole",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "attempt"
+  ],
+  "author": "RayDilMe",
+  "license": "MIT"
 }
